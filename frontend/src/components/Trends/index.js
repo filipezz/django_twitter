@@ -52,7 +52,7 @@ function Trends() {
           </div>
         </div>
         <div>
-          <a href="#"> Show More</a>
+          <a href="/"> Show More</a>
         </div>
       </section>
     </Container>
