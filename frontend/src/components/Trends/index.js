@@ -46,7 +46,7 @@ function Trends() {
             <span>International in Brazil</span>
             <strong>
               Quando você acha um Caterpie - e a internet te dá uma aula de
-              biologia! 🐛
+              biologia! 
             </strong>
             <p>12.7k Tweets</p>
           </div>
